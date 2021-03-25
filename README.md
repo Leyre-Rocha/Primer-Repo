@@ -1,6 +1,6 @@
 ## <center> Reseña del libro "La Revolución Transhumanista: Cómo la Tecnomedicina y la Uberización del Mundo van a Transformar Nuestras Vidas"</center>
 
-#### La revolución transhumanista es un libro escrito por [Luc Ferry]https://es.wikipedia.org/wiki/Luc_Ferry en el año 2019.***Luc Ferry*** es un profesor, filósofo e intelectual; también ha sido ministro de educación e investigación en Francia y miembro del Consejo Económico y Social francés. >La revolución transhumanista 
+#### <div class="text-justify"> La revolución transhumanista es un libro escrito por [Luc Ferry]https://es.wikipedia.org/wiki/Luc_Ferry en el año 2019.***Luc Ferry*** es un profesor, filósofo e intelectual; también ha sido ministro de educación e investigación en Francia y miembro del Consejo Económico y Social francés. >La revolución transhumanista 
 !<[Libro en idioma original]https://imagessl6.casadellibro.com/a/l/t1/06/9782259251006.jpg>
 ![Libro traducido al español por Alicia Martorell]https://static.cegal.es/imagenes/marcadas/9788491/978849104691.gif
 ![Luc Ferry,escritor de la obra en cuestión]https://www.xoeditions.com/wp-content/uploads/2010/08/luc-ferry-site-xo.jpg
@@ -19,4 +19,4 @@
 
 #### Dentro del ámbito económico nos plantea una economía mucho más colaborativa entre los países, y menciona ciertos avances tecnologícos que causarian inovaciones , desde plataformas que facilitan los pagos, hasta servicios en línea, tales como uber o rappi. Sin embargo también nos muestra que estas innovaciones también pueden llegar a resaltar las desigualdades económicas entre países, e incluso entre clase sociales.
 
-#### En lo personal este libro me gusto mucho, pues explica esta nueva ideología de una manera simple que permite que sea comprensible para cualquier persona, también abarca todos los angúlos y lados de la ideología, positivos, negativos, e incluso menciona las perspectivas políticas, religiosas, morales y espirituales que podrían llegar a hacer frente a este movimiento.
+#### En lo personal este libro me gusto mucho, pues explica esta nueva ideología de una manera simple que permite que sea comprensible para cualquier persona, también abarca todos los angúlos y lados de la ideología, positivos, negativos, e incluso menciona las perspectivas políticas, religiosas, morales y espirituales que podrían llegar a hacer frente a este movimiento.</div>
