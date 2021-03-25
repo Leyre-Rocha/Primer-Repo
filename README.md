@@ -2,15 +2,17 @@
 
 La revolución transhumanista es un libro escrito por [Luc Ferry]https://es.wikipedia.org/wiki/Luc_Ferry en el año 2019.***Luc Ferry*** es un profesor, filósofo e intelectual; también ha sido ministro de educación e investigación en Francia y miembro del Consejo Económico y Social francés. -La revolución transhumanista 
 
-![Libro en idioma original](imagen/1.jpg) ![](imagen/3.jpg)
+!["Libro en idioma original"](imagen/1.jpg) ![](imagen/3.jpg)
 
 
  A grandes rasgos el libro nos explica lo que es el **transhumanismo**, nos lo describe como un movimiento, principalmente intelectual y científico, pero con un gran potencial para extenderse hasta el ambito político, social y económico.Este movimiento se apoya en el uso de las **NBIC**, ***Nanotecnología,Biotecnología,Informática,Cognitivismo***, para lograr mejoras directas en el ser humano, englobando desde mejoras físicas, como el uso de protesis o aparatos, hasta el alterar el genoma humano para incrementar la capacidad intelectual o eliminar el riesgo de contraer enfermedades hereditarias.
 
 ###Podemos dividir a este movimiento en 2 grandes ramas:
 1. Por un lado tenemos a aquellos científicos que apoyan el movimiento y creen firmemente en que el uso de estas tecnologías ayudaria de manera positiva al mejoramiento de las capacidades humanas, es importante recalcar que para ellos siempre se trabaja sobre el ser humano en escencia.
+![](imagen/5.jpg)
 
 2. Por el otro lado tenemos a aquellos científicos que no solo creen en la mejora del ser humano, si no que defienden la creacion de una nueva especie: un hibrido entre hombre y humano.
+![](imagen/4.jpg)
 
 En el libro se nos hace mención de como este movimiento de una manera regulada y legal puede llegar a tener un impacto completamente positivo dentro de esta sociedad. También menciona, a mi parecer lo más importante, que frenar por completo este movimiento perjudicaria más en lugar de dar una solución, pues solo se da paso a un desarrollo clandestino sin ningun tipo de regulazion, donde probablemente las primeras aplicaciones sean para la creación de armas.
 
