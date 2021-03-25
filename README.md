@@ -1,7 +1,7 @@
 ## <center> Reseña del libro "La Revolución Transhumanista: Cómo la Tecnomedicina y la Uberización del Mundo van a Transformar Nuestras Vidas"</center>
 
 La revolución transhumanista es un libro escrito por [Luc Ferry]https://es.wikipedia.org/wiki/Luc_Ferry en el año 2019.***Luc Ferry*** es un profesor, filósofo e intelectual; también ha sido ministro de educación e investigación en Francia y miembro del Consejo Económico y Social francés. -La revolución transhumanista 
-
+<img sr="imagen/1.jpg">
 !["Libro en idioma original"](imagen/1.jpg) ![](imagen/3.jpg)
 
 
@@ -13,6 +13,7 @@ La revolución transhumanista es un libro escrito por [Luc Ferry]https://es.wiki
 ![](imagen/5.jpg 100x20)
 
 2. Por el otro lado tenemos a aquellos científicos que no solo creen en la mejora del ser humano, si no que defienden la creacion de una nueva especie: un hibrido entre hombre y humano.
+
 ![](imagen/4.jpg)
 
 En el libro se nos hace mención de como este movimiento de una manera regulada y legal puede llegar a tener un impacto completamente positivo dentro de esta sociedad. También menciona, a mi parecer lo más importante, que frenar por completo este movimiento perjudicaria más en lugar de dar una solución, pues solo se da paso a un desarrollo clandestino sin ningun tipo de regulazion, donde probablemente las primeras aplicaciones sean para la creación de armas.
