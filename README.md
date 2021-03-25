@@ -10,11 +10,11 @@ La revolución transhumanista es un libro escrito por [Luc Ferry]https://es.wiki
 ###Podemos dividir a este movimiento en 2 grandes ramas:
 1. Por un lado tenemos a aquellos científicos que apoyan el movimiento y creen firmemente en que el uso de estas tecnologías ayudaria de manera positiva al mejoramiento de las capacidades humanas, es importante recalcar que para ellos siempre se trabaja sobre el ser humano en escencia.
 
-![](imagen/5.jpg 100x20)
+            ![](imagen/5.jpg)
 
 2. Por el otro lado tenemos a aquellos científicos que no solo creen en la mejora del ser humano, si no que defienden la creacion de una nueva especie: un hibrido entre hombre y humano.
 
-![](imagen/4.jpg)
+            ![](imagen/4.jpg)
 
 En el libro se nos hace mención de como este movimiento de una manera regulada y legal puede llegar a tener un impacto completamente positivo dentro de esta sociedad. También menciona, a mi parecer lo más importante, que frenar por completo este movimiento perjudicaria más en lugar de dar una solución, pues solo se da paso a un desarrollo clandestino sin ningun tipo de regulazion, donde probablemente las primeras aplicaciones sean para la creación de armas.
 
